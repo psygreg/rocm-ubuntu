@@ -22,3 +22,6 @@ Currently, I can only guarantee this script to work on Ubuntu **24.04 LTS** and 
 `./install.sh`
 
 You can delete the "rocm-ubuntu" folder once it's completed.
+
+To see if it's working, after rebooting, use the command `rocminfo`. The result should look something like this:
+
