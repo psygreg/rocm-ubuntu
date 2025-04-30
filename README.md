@@ -24,4 +24,5 @@ Currently, I can only guarantee this script to work on Ubuntu **24.04 LTS** and 
 You can delete the "rocm-ubuntu" folder once it's completed.
 
 To see if it's working, after rebooting, use the command `rocminfo`. The result should look something like this:
+![rocm-success-screenshot](https://github.com/psygreg/rocm-ubuntu/blob/main/img/screenshot-rocm.png)
 
