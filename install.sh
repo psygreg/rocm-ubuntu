@@ -21,7 +21,7 @@ get_lang () {
 # runtime
 get_lang
 . /etc/os-release
-if [ "$ID_LIKE" == "ubuntu" ]; then
+if [ "$ID" == "ubuntu" ]; then
     read -p "$CHECK" user_input
     user_input=$(echo "$user_input" | tr '[:upper:]' '[:lower:]')
     if [ "$user_input" == "y" ] || [ "$user_input" == "s" ]; then
