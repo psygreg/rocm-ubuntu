@@ -1,0 +1,4 @@
+CHECK="Este programa irá instalar o suporte a aceleração ROCm no seu sistema. Isto só é compatível com GPUs AMD RDNA 2 (RX 6xxx) ou 3 (RX 7xxx). Prosseguir? (s/n)"
+INCOMPATIBLE="Seu sistema não é Ubuntu nem baseado nele. Este script não é compatível com outros sistemas."
+ABORT="Abortado pelo usuário."
+FINISHED="Concluído! Reinicie para aplicar as alterações."

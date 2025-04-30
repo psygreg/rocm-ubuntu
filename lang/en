@@ -1,0 +1,4 @@
+CHECK="This program will install ROCm acceleration support in your system. This is only compatible with AMD RDNA 2 (RX 6xxx) and 3 (RX 7xxx) GPUs at this time. Proceed? (y/n)" 
+INCOMPATIBLE="Your operating system is not Ubuntu nor based on it. This script is not compatible with other systems."
+ABORT="Aborted by user."
+FINISHED="All done. Reboot to apply changes."
