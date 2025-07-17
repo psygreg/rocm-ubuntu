@@ -15,6 +15,7 @@ Currently, I can only guarantee this script to work on Ubuntu **24.04 LTS** and 
 - RX 7900 GRE
 - RX 7900 XT
 - RX 7900 XTX
+- RX 9060 XT
 
 ## Usage
 
